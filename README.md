@@ -3,4 +3,4 @@ instant revive after any death can use Auto-rez / gold rez
 
 # Command
 
-/8 res 
+/8 rez
